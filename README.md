@@ -1,7 +1,7 @@
 # UNiDAYS Discounts Coding Challenge
 
 ## Introduction
-I have completed unidays challenge. The solution is written in C#. To test the programm, pull the repository and run Unidays.sln
+I have completed unidays discount coding challenge. The solution is written in C#. To test the programm, pull the repository and run Unidays.sln
 
 ## Pricing Rules
 
