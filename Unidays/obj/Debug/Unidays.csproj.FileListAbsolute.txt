@@ -1,0 +1,7 @@
+C:\Users\George\source\repos\Unidays\Unidays\bin\Debug\Unidays.exe.config
+C:\Users\George\source\repos\Unidays\Unidays\bin\Debug\Unidays.exe
+C:\Users\George\source\repos\Unidays\Unidays\bin\Debug\Unidays.pdb
+C:\Users\George\source\repos\Unidays\Unidays\obj\Debug\Unidays.csprojAssemblyReference.cache
+C:\Users\George\source\repos\Unidays\Unidays\obj\Debug\Unidays.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Unidays\Unidays\obj\Debug\Unidays.exe
+C:\Users\George\source\repos\Unidays\Unidays\obj\Debug\Unidays.pdb
