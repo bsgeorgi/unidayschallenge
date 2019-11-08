@@ -46,3 +46,5 @@ var totalPrice = result.Item1;
 var deliveryCharge = result.Item2;
 var overallTotal = totalPrice + deliveryCharge;
 ```
+
+Any item that does not contain a pricing rule will be removed from the basket before the final prices are calculated.
